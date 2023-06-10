@@ -78,7 +78,7 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 ## Evidencias
 
-[POR EL MOMENTO NO CONTAMOS CON VIDE ]()
+[POR EL MOMENTO NO CONTAMOS CON VIDEO ]()
 
 
 # Créditos
