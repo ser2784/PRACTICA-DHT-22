@@ -55,11 +55,11 @@ void loop() {
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
+![](https://github.com/ser2784/PRACTICA-DHT-22/blob/main/codigo%20DHT22.png?raw=true)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
+![](https://github.com/ser2784/PRACTICA-DHT-22/blob/main/DIAGRAMA%20DHT22.png?raw=true)
 
 ### Instrucciónes de operación
 
@@ -71,14 +71,14 @@ void loop() {
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
+![](https://github.com/ser2784/PRACTICA-DHT-22/blob/main/RESULTADOS.png?raw=true)
 
 
 
 
 ## Evidencias
 
-[Video de Youtube](https://https://wokwi.com/)
+[POR EL MOMENTO NO CONTAMOS CON VIDE ]()
 
 
 # Créditos
